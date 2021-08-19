@@ -1,0 +1,2 @@
+Create a class for calculator and input two number in constructor and implement functions add, substract, multiply and division.
+Implement a method of calculating interest in account class. assume interst rate as class variable.
